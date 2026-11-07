@@ -231,4 +231,4 @@ Game Jolt is offered as a **complete free version** with all features and update
 Start your adventure today with Game Jolt—**download now and explore thousands of indie games for free!**
 
 ---
-**Last updated:** 2026-11-06 20:47:02 UTC
+**Last updated:** 2026-11-07 00:47:12 UTC
